@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script type="text/javascript" src="../javascript/front/index.js" defer></script>
+    <script type="text/javascript" src="../javascript/front/edition_accueil.js" defer></script>
+    <link rel="stylesheet" href="../css/main.css">
+    <link rel="stylesheet" href="../css/index.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Cinzel+Decorative:wght@400;700&family=Questrial&display=swap" rel="stylesheet">
+</head>
+
+<body onload="get_description();">
+    <nav>
+        <h1>Terr'Histoire</h1>
+        <ul>
+            <li class="li_left">
+                <a href="index.html">Accueil</a>
+            </li>
+            <li> 
+                <a href ="map.html">La carte</a>
+            </li>
+            <li> 
+                <a href="formulaire_bdd.html">Importer des données</a>
+            </li>
+            <li class="li_right"> 
+                <a href="formulaire_simple.html">Participer via formulaire</a>
+            </li>
+        </ul>
+    </nav>
+    <section class="caseCo"><a  href="inscription.html" class="go_log">Créer un compte</a> | <a  href="connexion.html" class="go_log">J'ai déjà un compte</a></section>
+    <section>
+        <h2>Terr’Histoire, c'est quoi ?</h2>
+        <fieldset class="presentation" id="cadre_infos">
+                <!--<textarea cols="120" rows="8">-->
+                <p id="text_infos">
+                
+                </p>
+                <div id="btndemerde">
+                    <button id="btn_edit" onclick="edit();"><image id="edit" src='../resources/icone_crayon.png' alt="crayon"></button>
+                </div>
+        </fieldset>   
+    </section>
+    <footer>
+        <p>
+            Site réalisé par le groupe 3 de L3 INF-SHS de l'UT2J<br>
+            2022-2023
+        </p>
+    </footer>
+</body>
+
+</html>

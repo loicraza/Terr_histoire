@@ -1,0 +1,32 @@
+fieldset {
+    /* border-radius: 20px; */
+    background-color: rgba(255, 255, 255, 0.315);
+    /* margin: 50px 0; */
+    border: none;
+}
+
+#text_infos {
+    white-space: pre-line;
+}
+
+#edit {
+    width: 100%;
+    border: none;
+}
+
+#btn_edit {
+    max-width: 30px;
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.00);
+    bottom: 0px;
+    right:40px;
+}
+
+#btn_edit:active {
+    background-color: rgb(255, 255, 255);
+    
+}
+
+#btndemerde {
+    text-align: right;
+}

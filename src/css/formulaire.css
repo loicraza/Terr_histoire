@@ -1,0 +1,114 @@
+input:focus {
+    transition: 0.25s;
+}
+
+input[type="button"] {
+    cursor: pointer;
+}
+
+fieldset {
+    /* border-radius: 20px; */
+    background-color: rgba(255, 255, 255, 0.315);
+    /* margin: 50px 0; */
+    border: none;
+}
+
+fieldset > legend {
+    text-align: center;
+    font-weight: bold;
+    color: rgb(252, 217, 17);
+    font-family: 'Archivo Black', sans-serif;
+}
+
+fieldset > div > input,
+fieldset#bddInput > input {
+    margin-bottom: 1%;
+    width: 50%;
+    padding: 1%;
+    border-radius: 12px;
+    border: none;
+}
+
+.valider {
+    text-align: center;
+    font-family: 'Questrial', sans-serif;
+}
+
+.valider > input {
+    width: 20%;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="number"],
+input[type="date"] {
+    text-align: justify;
+}
+
+select {
+    padding: 0.2%;
+    margin-top: 0.5%;
+    margin-bottom: 0.5%;
+}
+
+.valider input[type="button" i] {
+    border: none;
+    background-color: rgb(252, 217, 17);
+    border-radius: 100px;
+    margin: 40px;
+    height: 45px;
+    width: 30%;
+}
+
+input[type=number] {
+    /* padding: 0.1%; */
+    width: 16em;
+}
+
+input[type=checkbox] {
+    margin: 0%;
+    padding: 0%;
+    width: 24%;
+}
+
+input[type=number]:focus {
+    border: 2px solid #29cd85;
+    padding: 0.4%;
+    transition: 0.25s;
+}
+
+input[type=text]:focus,
+input[type=email]:focus {
+    border: none;
+    border-bottom: 4px solid rgb(252, 217, 17);
+}
+
+input::placeholder {
+    color: rgba(131, 126, 126, 0.618);
+    font-weight: lighter;
+}
+
+input[type=password]:focus,
+input[class=elog]:focus {
+    border: none;
+    border-bottom: 4px solid rgb(252, 217, 17);
+}
+
+input:focus::placeholder {
+    color: rgba(131, 126, 126, 0);
+    font-weight: lighter;
+    transition: 0.5s;
+}
+
+.info_obli {
+    margin: 1%;
+}
+
+.obli {
+    font-weight: bold;
+    color: #e10707;
+}
+
+form fieldset + fieldset {
+    margin: 30px 0px;
+}

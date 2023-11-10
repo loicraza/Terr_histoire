@@ -1,0 +1,26 @@
+label {
+    display: inline-block;
+    width : 25%;
+    color : black;
+}
+
+form {
+    width: 70%;
+    margin: auto;
+}
+
+#map_container {
+    width: 100%;
+    height: 400px;
+    margin-top: 5px;
+    position: relative;
+    overflow: hidden;
+}
+
+#map {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}

@@ -1,0 +1,192 @@
+html {
+    background-attachment: fixed;
+    background-image: url(../resources/hd-wallpaper-g8a9e8f525_1920.jpg);
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    color: #3b4135;
+    height: 100%;
+}
+
+nav {
+    background-color: rgba(0, 0, 0, 0.493)
+        /* #94A7AE */
+    ;
+    height: 90px;
+    justify-content: space-around;
+    align-items: center;
+    display: flex;
+    margin-top: 0px;
+    /*
+    color:  #5fb212;
+    border-radius: 20px;*/
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    padding-top: 0%;
+    font-family: 'Cinzel Decorative', cursive;
+    margin-right: 500px;
+    position: absolute;
+    left: 20px;
+}
+
+h2 {
+    text-align: center;
+    color: white;
+    font-family: 'Archivo Black', sans-serif;
+    margin-top: 50px;
+}
+
+p {
+    margin: 2%;
+    font-family: 'Questrial', sans-serif;
+    color: white;
+}
+
+#text_infos {
+    text-align: justify;
+}
+
+a,
+label {
+    font-family: 'Questrial', sans-serif;
+}
+
+ul {
+    padding: 30px 0;
+    margin: 0;
+    text-align: right;
+    position: absolute;
+    right: 0px;
+}
+
+nav li a
+{
+    color: rgb(252, 217, 17);
+    padding: 15px 20px;
+    text-decoration: none;
+    transition: color 100ms linear;
+    /*font: 20px Raleway;*/
+    margin: 0px 10px;
+    position: relative;
+    z-index: 0;
+    cursor: pointer;
+}
+
+nav li a:before, nav li a:after
+{
+    position: absolute;
+    left: 0px;
+    width: 100%;
+    height: 3px;
+    background: rgb(252, 217, 17);
+    content: "";
+    opacity: 0;
+    transition: all 0.3s;
+}
+
+nav li a:before
+{
+    top: 0px;
+    transform: translateY(10px);
+}
+
+nav li a:after
+{
+    bottom: 0px;
+    transform: translateY(-10px);
+}
+
+nav li a:hover:after, nav li a:hover:before
+{
+    opacity: 1;
+    transform: translateY(0px);
+}
+
+li a:hover {
+    color: white;
+}
+
+li {
+    /* display: inline; */
+    display: inline-block;
+}
+
+.switch_log {
+    color: rgb(63, 63, 109);
+    display: block;
+}
+
+
+.go_log {
+    text-align: right;
+    padding-right: 0%;
+    color: white;
+    text-decoration: none;
+    /* transition: underline 1s linear; */
+}
+
+.go_log:hover {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.caseCo {
+    text-align: right;
+    padding-right: 1%;
+}
+
+.pcarte {
+    margin-bottom: 0.5%;
+}
+
+textarea {
+    resize: none;
+    background-color: rgba(255, 255, 255, 0.315);
+    border: none;
+}
+
+.presentation {
+    margin: 30px 18em;
+}
+
+.form-bdd {
+    margin: 20px 40px -30px;
+}
+
+.form-bdd label {
+    display: inline-block;
+    width: 32em;
+    color: black;
+
+}
+
+.li_left {
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+
+.li_right {
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+:focus {
+    outline: none;
+}
+
+select {
+    border: none;
+}
+
+footer {
+    text-align: right;
+}

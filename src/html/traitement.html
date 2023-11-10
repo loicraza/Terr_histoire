@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script type="text/javascript" src="../javascript/front/index.js" defer></script>
+    <script type="text/javascript" src="../javascript/front/formulaire.js" defer></script>
+    <script type="text/javascript" src="../javascript/front/traitement.js" defer></script>
+    <link rel="stylesheet" href="../css/main.css">
+    <link rel="stylesheet" href="../css/formulaire.css">
+    <link rel="stylesheet" href="../css/formulaire_simple_bdd.css">
+    <link rel="stylesheet" href="../css/traitement.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Cinzel+Decorative:wght@400;700&family=Questrial&display=swap" rel="stylesheet">
+    <title>Terr’Histoire</title>
+</head>
+
+<body onload="(async () => { await render('simple'); await init(); })();">
+    <nav>
+        <h1>Terr'Histoire</h1>
+        <ul>
+            <li class="li_left">
+                <a href="index.html">Accueil</a>
+            </li>
+            <li> 
+                <a href ="map.html">La carte</a>
+            </li>
+            <li> 
+                <a href="formulaire_bdd.html">Importer des données</a>
+            </li>
+            <li class="li_right"> 
+                <a href="formulaire_simple.html">Participer via formulaire</a>
+            </li>
+        </ul>
+    </nav>
+    <section class="caseCo"><a  href="inscription.html" class="go_log">Créer un compte</a> | <a  href="connexion.html" class="go_log">J'ai déjà un compte</a></section>
+
+    <h2> Données à valider </h2>
+    <p>Ces données ajoutées par les utilisateurs sont en attente d'être validés par un comité d'experts.</p>
+    <form>
+        <fieldset id="credentialInputs"></fieldset>
+        <fieldset id="requiredInputs"></fieldset>
+        <fieldset id="optionalInputs"></fieldset>
+        <div class="buttons">
+            <input type="button" class="green" value="Publier" onclick=publishData()>
+            <input type="button" class="blue" value="Sauvegarder" onclick=saveData()>
+            <input type="button" class="gray" value="Annuler" onclick="window.location.href='traitement.html'">
+            <input type="button" class="red" value="Supprimer" onclick=deleteData()>
+        </div>
+    </form>
+</body>
+</html>

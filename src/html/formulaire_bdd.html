@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <script type="text/javascript" src="../javascript/front/index.js" defer></script>
+  <script type="text/javascript" src="../javascript/front/formulaire.js" defer></script>
+  <script type="text/javascript" src="../javascript/front/formulaire_bdd.js" defer></script>
+  <link rel="stylesheet" href="../css/main.css">
+  <link rel="stylesheet" href="../css/formulaire.css">
+  <link rel="stylesheet" href="../css/formulaire_simple_bdd.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Cinzel+Decorative:wght@400;700&family=Questrial&display=swap"
+    rel="stylesheet">
+  <title>Terr'Histoire</title>
+</head>
+
+<body onload="(async () => { await render('bdd'); changeInputs() })();">
+  <nav>
+    <h1>Terr’Histoire</h1>
+    <ul>
+      <li class="li_left"><a href="index.html">Accueil</a></li>
+      <li> <a href="map.html">La carte</a></li>
+      <li> <a href="formulaire_bdd.html">Importer des données</a></li>
+      <li class="li_right"> <a href="formulaire_simple.html">Participer via formulaire</a></li>
+    </ul>
+  </nav>
+  <section class="caseCo"><a href="inscription.html" class="go_log">Créer un compte</a> | <a href="connexion.html"
+      class="go_log">J'ai déjà un compte</a>
+  </section>
+  <section>
+    <h2>Formulaire pour ajouter une base de donnée</h2>
+    <form>
+      <fieldset id="credentialInputs"></fieldset>
+      <fieldset id="bddInput">
+        <legend>Base de donnée</legend>
+        <input type="file" id="fichier" accept=".csv"><br>
+        <label>Délimiteur (par défaut <strong>;</strong> )</label>
+        <input type="text" class="form-control" id="column_delimiter" required>
+      </fieldset>
+      <fieldset id="requiredInputs"></fieldset>
+      <fieldset id="optionalInputs"></fieldset>
+      <div class="valider">
+        <input type="button" value="Envoyer le formulaire" onclick=formulaire_bdd()>
+      </div>
+    </form>
+  </section>
+</body>
+
+</html>

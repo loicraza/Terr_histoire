@@ -1,0 +1,30 @@
+.acces_cmpt {
+    margin: 0 30%;
+}
+
+.acces_cmpt label {
+    display: block;
+}
+
+.acces_cmpt .elog,
+.acces_cmpt .mdpLog,
+.acces_cmpt .cmdpLog {
+    display: block;
+    width: 20em;
+    height: 2em;
+    margin-bottom: 20px;
+}
+
+.acces_cmpt .infos {
+    width: fit-content;
+    margin: 20px auto;
+}
+
+.button {
+    text-align: center;
+}
+
+.button input[type=button] {
+    width: 20em;
+    margin-bottom: 10px;
+}

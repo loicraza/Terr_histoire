@@ -1,0 +1,1545 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.677627",
+     "43.511997"
+    ]
+   },
+   "properties": {
+    "name": "Ancienne mairie-école",
+    "description": "L'ancienne mairie-école, située au centre du village, est un bâtiment datant de la deuxième partie du XIXème siècle.\nAprès l'acquisition d'un terrain par la commune, l'architecte Milhau sera chargé de réaliser le projet de construction, validé en 1874, et les travaux seront effectués par Pierre Soucale, charpentier de Villenouvelle. L'édifice sera terminé en 1880.\nAprès quelques réparations et le creusement d'un puits dans la cour de récréation, un réaménagement des salles de classe sera effectué afin d'accueillir un supplément d'élèves, suite à la fermeture de l'école congréganiste en 1903. Ce bâtiment fonctionnera en tant que mairie-école jusqu'en 2003, date à laquelle le groupe scolaire Michel Bonnery ouvre ses portes. Il est aujourd'hui désaffecté."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.663864",
+     "43.507527"
+    ]
+   },
+   "properties": {
+    "name": "Métairie d'Audonet",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.671278",
+     "43.505375"
+    ]
+   },
+   "properties": {
+    "name": "Métairie de Barthélemy",
+    "description": "La métairie de Barthélemy, d'abord appelée la Crouzette puis Pech Guiraud, fut bâtie au début du XIXème siècle, sur une colline dominant la vallée de la Marcaissonne. C'est aujourd'hui une maison d'habitation."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.658628",
+     "43.513679"
+    ]
+   },
+   "properties": {
+    "name": "Métairie de Bonaparte",
+    "description": "Cette métairie, située non loin de celle des Hugoux, a disparu au cours du XXème siècle."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.689587",
+     "43.513269"
+    ]
+   },
+   "properties": {
+    "name": "Métairie de Cambon",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.670178",
+     "43.522998"
+    ]
+   },
+   "properties": {
+    "name": "Métairie d'En Cambigue",
+    "description": "Bâtie à flanc de colline, à la limite de la commune d'Aurin, la métairie de Cambigue est citée dès le XVIème siècle. Elle faisait partie des biens seigneuriaux et dépendait du château. C'est aujourd'hui une maison d'habitation."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.66952",
+     "43.498249"
+    ]
+   },
+   "properties": {
+    "name": "Métairie d'En Chalotte",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.68601",
+     "43.505326"
+    ]
+   },
+   "properties": {
+    "name": "Métairie d'En Couderc",
+    "description": "Bâtie sur une colline, non loin du hameau des Gourdous, la métairie d'En Couderc est citée dès 1687 et comportait de nombreuses dépendances dont un moulin pastellier. Elle appartenait alors au seigneur de Caragoudes. C'est encore aujourd'hui une exploitation agricole."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.667375",
+     "43.518475"
+    ]
+   },
+   "properties": {
+    "name": "Métairie d'En Coufette",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.666002",
+     "43.514879"
+    ]
+   },
+   "properties": {
+    "name": "Métairie d'En Glanières",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.671763",
+     "43.521991"
+    ]
+   },
+   "properties": {
+    "name": "Métairie d'En Miquel",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.66872",
+     "43.505009"
+    ]
+   },
+   "properties": {
+    "name": "Métairie d'En Pelet",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.678128",
+     "43.51824"
+    ]
+   },
+   "properties": {
+    "name": "Métairie d'En Pitorre",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.671454",
+     "43.506794"
+    ]
+   },
+   "properties": {
+    "name": "Métairie de la Bourdette",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.681496",
+     "43.513523"
+    ]
+   },
+   "properties": {
+    "name": "Métairie de la Cote",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.685983",
+     "43.507891"
+    ]
+   },
+   "properties": {
+    "name": "Métairie et hameau de la Garrigue",
+    "description": "L'ancienne métairie de la Garrigue, bâtie à flanc de colline au sud-est du village, est aujourd'hui une maison d'habitation. Jusqu'au XVIIIème siècle, se tenait là un hameau qui comptait cinq bâtiments en 1687."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.685362",
+     "43.511886"
+    ]
+   },
+   "properties": {
+    "name": "Métairie de la Mascaroune",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.667431",
+     "43.506367"
+    ]
+   },
+   "properties": {
+    "name": "Métairie du Canut",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.666059",
+     "43.507856"
+    ]
+   },
+   "properties": {
+    "name": "Métairie du Cardayre",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.701501",
+     "43.514512"
+    ]
+   },
+   "properties": {
+    "name": "Métairie du Nuz",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.676948",
+     "43.507611"
+    ]
+   },
+   "properties": {
+    "name": "Métairie du Pigné",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.684333",
+     "43.516692"
+    ]
+   },
+   "properties": {
+    "name": "Métairie des Grises",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.653569",
+     "43.514134"
+    ]
+   },
+   "properties": {
+    "name": "Métairie et hameau des Hugoux",
+    "description": "La métairie des Hugoux est une grosse bâtisse de brique, aujourd'hui inhabitée, établie sur une colline dominant la vallée de la Marcaissonne. Elle reste l'unique trace de la communauté disparue des Hugoux, où la famille du même nom joua un rôle prépondérant dans la protection des derniers parfaits cathares au cours du XIVème siècle."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.689836",
+     "43.510584"
+    ]
+   },
+   "properties": {
+    "name": "Métairie de Manenc",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.663492",
+     "43.517492"
+    ]
+   },
+   "properties": {
+    "name": "Métairie des Morices",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.66065",
+     "43.505226"
+    ]
+   },
+   "properties": {
+    "name": "Métairie de Mendouze",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.673308",
+     "43.512073"
+    ]
+   },
+   "properties": {
+    "name": "Métairie et maison Sudré",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.67305",
+     "43.512664"
+    ]
+   },
+   "properties": {
+    "name": "Pigeonnier de Sudré",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.674194",
+     "43.510822"
+    ]
+   },
+   "properties": {
+    "name": "Moulin à vent du Barrat",
+    "description": "Aujourd'hui disparu, le moulin à vent du Barrat était une dépendance du château et fut dénombré par les seigneurs successifs du lieu. Il fut démoli au cours du XIXème siècle."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.686238",
+     "43.516927"
+    ]
+   },
+   "properties": {
+    "name": "Moulin à vent des Garises",
+    "description": "Aujourd'hui disparu, le moulin des Grises, situé près de métairie du même nom, était bâti sur une motte. Il n'existait déjà plus en 1687."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.670121",
+     "43.512377"
+    ]
+   },
+   "properties": {
+    "name": "Moulin à vent de Sudré",
+    "description": "Aujourd'hui disparu, le moulin à vent de Sudre tient son nom de la famille qui le possédait depuis au moins la fin du XVIIème siècle. Il cessa de fonctionner au début du XXème siècle et le bâtiment fut démoli par la suite."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.674335",
+     "43.524344"
+    ]
+   },
+   "properties": {
+    "name": "Moulin à vent de la Rivière",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.675058",
+     "43.52458"
+    ]
+   },
+   "properties": {
+    "name": "Moulin à eau dit la Mouline",
+    "description": "Établi sur la Saune, ce moulin à eau, cité dès le XVème siècle, fut la possession des seigneurs de Tarabel jusqu'à la Révolution. Sauvé in-extremis de la démolition au XIXème siècle, il fonctionna jusqu'aux années 1940. C'est aujourd'hui une maison d'habitation."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.672005",
+     "43.507788"
+    ]
+   },
+   "properties": {
+    "name": "La Thuilerie",
+    "description": "Ce bâtiment, aujourd'hui disparu, se situait près de la fontaine du ruisseau de Duffaut, dans l'ancien territoire communal de Bugnac. Il ne fonctionnait déjà plus en tant que tuilerie au XIXème siècle et servait de maison d'habitation."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.675374",
+     "43.512728"
+    ]
+   },
+   "properties": {
+    "name": "Bar-restaurant Cazeneuve",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.68601",
+     "43.505326"
+    ]
+   },
+   "properties": {
+    "name": "Moulin pastelier d'En Couderc",
+    "description": "Ce moulin, aujourd'hui disparu, cité en 1687, dépendait de la métairie d'En Couderc qui appartenait alors au seigneur de Caragoudes."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.674886",
+     "43.512276"
+    ]
+   },
+   "properties": {
+    "name": "Pont-bascule",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.67634",
+     "43.512083"
+    ]
+   },
+   "properties": {
+    "name": "Château de Tarabel",
+    "description": "Élément le plus remarquable du village, dont il est le centre, le château de Tarabel domine la vallée de la Saune. Entouré d'un parc, cet édifice composite, datant, semble-t-il dans sa majeure partie, des XVI-XVIIème sicècles, fut souvent remanié au cours des siècles. Il a néanmoins conservé un aspect homogène et plaisant. Il fut la possession des seigneurs du lieu jusqu'à la Révolution."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.676973",
+     "43.512417"
+    ]
+   },
+   "properties": {
+    "name": "Place du Calvaire",
+    "description": "Anciennement occupé par une barbacane défendant l'entrée du château, cet espace devint la place publique principale du village jusqu'au XIXème siècle."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.676139",
+     "43.512601"
+    ]
+   },
+   "properties": {
+    "name": "Village",
+    "description": "Situé sur une colline surplombant la vallée de la Saune, le village actuel de Tarabel, dominé par son château de style renaissance, possède également une église dont le portail date de la fin du Moyen-Age.\nD'origine castrale, le village s'aggloméra vraissemblablement sur la colline au cours du XIIème siècle, au dépend de l'ancienne communauté située dans la vallée de la Saune. L'existence de fortifications est attestée au XVème siècle. Elles auront disparues en 1687. La structure du village n'a guère évolué depuis cette date."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.676511",
+     "43.51237"
+    ]
+   },
+   "properties": {
+    "name": "Fossés du château",
+    "description": "Le seul vestige des fossés qui, au moins depuis le XVIIème siècle, ceinturaient le château, est une mare, sise au centre du village. La date de leur creusement n'est pas connue mais pourrait remonter au Moyen-Age."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.672329",
+     "43.507995"
+    ]
+   },
+   "properties": {
+    "name": "Fontaine de la Tuilerie",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.683781",
+     "43.510425"
+    ]
+   },
+   "properties": {
+    "name": "Fontaine des Pauvres",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.668655",
+     "43.497673"
+    ]
+   },
+   "properties": {
+    "name": "Fontaine de Sabattier",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.667215",
+     "43.506389"
+    ]
+   },
+   "properties": {
+    "name": "Puits commun de Bugnac",
+    "description": "Puits toujours visible dans les ruines de la métairie du Canut."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.690232",
+     "43.512575"
+    ]
+   },
+   "properties": {
+    "name": "Vivier et puits du hameau des Peyrous",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.680141",
+     "43.507148"
+    ]
+   },
+   "properties": {
+    "name": "Puits du hameau des Gourdous",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.676582",
+     "43.512045"
+    ]
+   },
+   "properties": {
+    "name": "Puits du château",
+    "description": "Puits encore existant dans la cour intérieure du château."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.677719",
+     "43.512036"
+    ]
+   },
+   "properties": {
+    "name": "Puits de l'ancienne mairie-école",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.685853",
+     "43.508067"
+    ]
+   },
+   "properties": {
+    "name": "Puits du hameau de la Garrigue",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.676511",
+     "43.51237"
+    ]
+   },
+   "properties": {
+    "name": "Fossés du château",
+    "description": "Le seul vestige des fossés qui, au moins depuis le XVIIème siècle, ceinturaient le château, est une mare, sise au centre du village. La date de leur creusement n'est pas connue mais pourrait remonter au Moyen-Age."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.675717",
+     "43.512775"
+    ]
+   },
+   "properties": {
+    "name": "Ancienne école congréganiste de filles",
+    "description": "C'est aujourd'hui une maison d'habitation."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.677627",
+     "43.511997"
+    ]
+   },
+   "properties": {
+    "name": "Ancienne mairie-école",
+    "description": "L'ancienne mairie-école, située au centre du village, est un bâtiment datant de la deuxième partie du XIXème siècle.\nAprès l'acquisition d'un terrain par la commune, l'architecte Milhau sera chargé de réaliser le projet de construction, validé en 1874, et les travaux seront effectués par Pierre Soucale, charpentier de Villenouvelle. L'édifice sera terminé en 1880.\nAprès quelques réparations et le creusement d'un puits dans la cour de récréation, un réaménagement des salles de classe sera effectué afin d'accueillir un supplément d'élèves, suite à la fermeture de l'école congréganiste en 1903. Ce bâtiment fonctionnera en tant que mairie-école jusqu'en 2003, date à laquelle le groupe scolaire Michel Bonnery ouvre ses portes. Il est aujourd'hui désaffecté."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.670585",
+     "43.50551"
+    ]
+   },
+   "properties": {
+    "name": "Croix de Pech Guiraud",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.677302",
+     "43.51194"
+    ]
+   },
+   "properties": {
+    "name": "Monuments aux morts",
+    "description": "Situé au centre du village, près de l'église, le monument aux morts fut érigé en 1921, suivant les plans de l'instituteur communal, Guillaume Samara."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.6802",
+     "43.512285"
+    ]
+   },
+   "properties": {
+    "name": "Statue de la Vierge",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.673701",
+     "43.509737"
+    ]
+   },
+   "properties": {
+    "name": "Croix de la Marchande",
+    "description": "Située à l'intersection des actuelles routes départementale n°38 et n°54, la croix de la Marchande est déjà citée en 1687."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.67634",
+     "43.512083"
+    ]
+   },
+   "properties": {
+    "name": "Château de Tarabel",
+    "description": "Élément le plus remarquable du village, dont il est le centre, le château de Tarabel domine la vallée de la Saune. Entouré d'un parc, cet édifice composite, datant, semble-t-il dans sa majeure partie, des XVI-XVIIème siècles, fut souvent remanié au cours des siècles. Il a néanmoins conservé un aspect homogène et plaisant. Il fut la possession des seigneurs du lieu jusqu'à la Révolution."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.673495",
+     "43.508116"
+    ]
+   },
+   "properties": {
+    "name": "Château de Bugnac",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.667947",
+     "43.51165"
+    ]
+   },
+   "properties": {
+    "name": "Duffaut",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.682447",
+     "43.520207"
+    ]
+   },
+   "properties": {
+    "name": "Église et cimetière Saint-Martin",
+    "description": "Établie dans la vallée de la Saune, l'église Saint-Martin de la Rivière, aujourd'hui disparue, pourrait avoir été fondée dès les premiers temps de la christiannisation ou, plus probablement, au cours du Haut-Moyen-Age (V-IXème siècles). C'est autour d'elle que se constitua la première communauté de Tarabel. Ayant beaucoup souffert du passage des protestants de Caraman en 1569, elle perdit son rang d'église paroissiale au profit de l'église Saint-Barthélemy."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.676139",
+     "43.512601"
+    ]
+   },
+   "properties": {
+    "name": "Village",
+    "description": "Situé sur une colline surplombant la vallée de la Saune, le village actuel de Tarabel, dominé par son château de style renaissance, possède également une église dont le portail date de la fin du Moyen-Age.\nD'origine castrale, le village s'aggloméra vraissemblablement sur la colline au cours du XIIème siècle, au dépend de l'ancienne communauté située dans la vallée de la Saune. L'existence de fortifications est attestée au XVème siècle. Elles auront disparues en 1687. La structure du village n'a guère évolué depuis cette date."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.674297",
+     "43.507422"
+    ]
+   },
+   "properties": {
+    "name": "Hameau d'En Barrière",
+    "description": "Hameau aujourd'hui dispru."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.680328",
+     "43.507299"
+    ]
+   },
+   "properties": {
+    "name": "Hameau des Gourdous",
+    "description": "Situé au sud-est du village, surplombant les vallées de la Saune et de la Marcaissonne, le hameau des Gourdous compta jusqu'à neuf bâtisses au XIXème siècle. Il doit probablement son nom à la famille Gourdou, dont la présence est attestée à Tarabel, dès le XVème siècle."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.689916",
+     "43.512587"
+    ]
+   },
+   "properties": {
+    "name": "Hameau des Peyrous",
+    "description": "Établi sur une petite butte, dans la vallée de la Saune, le hameau des Peyrous, cité dès le XIVème siècle, suggère une occupation antique. Il comprenait une dizaine de bâtiments au XIXème siècle."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.685983",
+     "43.507891"
+    ]
+   },
+   "properties": {
+    "name": "Métairie et hameau de la Garrigue",
+    "description": "L'ancienne métairie de la Garrigue, bâtie à flanc de colline au sud-est du village, est aujourd'hui une maison d'habitation. Jusqu'au XVIIIème siècle, se tenait là un hameau qui comptait cinq bâtiments en 1687."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.653569",
+     "43.514134"
+    ]
+   },
+   "properties": {
+    "name": "Métairie et hameau des Hugoux",
+    "description": "La métairie des Hugoux est une grosse bâtisse de brique, aujourd'hui inhabitée, établie sur une colline dominant la vallée de la Marcaissonne. Elle reste l'unique trace de la communauté disparue des Hugoux, où la famille du même nom joua un rôle prépondérant dans la protection des derniers parfaits cathares au cours du XIVème siècle."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.696249",
+     "43.509698"
+    ]
+   },
+   "properties": {
+    "name": "An Poumo",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.666667",
+     "43.519943"
+    ]
+   },
+   "properties": {
+    "name": "En Gasquet",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.694079",
+     "43.5112"
+    ]
+   },
+   "properties": {
+    "name": "Joul Camp",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.682023",
+     "43.51372"
+    ]
+   },
+   "properties": {
+    "name": "La Boulbène",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.697824",
+     "43.512631"
+    ]
+   },
+   "properties": {
+    "name": "La Camparro",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.688868",
+     "43.515309"
+    ]
+   },
+   "properties": {
+    "name": "La Courtine",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.683513",
+     "43.510044"
+    ]
+   },
+   "properties": {
+    "name": "La Fon des Pauvres",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.699069",
+     "43.514068"
+    ]
+   },
+   "properties": {
+    "name": "La Gonne",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.685362",
+     "43.511886"
+    ]
+   },
+   "properties": {
+    "name": "La Mascaroune",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.686238",
+     "43.516927"
+    ]
+   },
+   "properties": {
+    "name": "La Mothe des Grises",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.681643",
+     "43.508954"
+    ]
+   },
+   "properties": {
+    "name": "La Périère",
+    "description": "Situé non loin du hameau des Gourdous, ce toponyme pourrait faire référence à d'anciennes carrières de marne aujourd'hui disparues."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.685006",
+     "43.516458"
+    ]
+   },
+   "properties": {
+    "name": "La Piesse d'Auta",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.694381",
+     "43.511981"
+    ]
+   },
+   "properties": {
+    "name": "La Plaine",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.685188",
+     "43.513005"
+    ]
+   },
+   "properties": {
+    "name": "La Plaine",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.687719",
+     "43.518732"
+    ]
+   },
+   "properties": {
+    "name": "La Plaine des Grises",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.689993",
+     "43.519899"
+    ]
+   },
+   "properties": {
+    "name": "La Rivale",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.698296",
+     "43.511542"
+    ]
+   },
+   "properties": {
+    "name": "La Rivierette",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.689427",
+     "43.517228"
+    ]
+   },
+   "properties": {
+    "name": "Las Fourcos",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.696086",
+     "43.514317"
+    ]
+   },
+   "properties": {
+    "name": "Las Tapios",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.686508",
+     "43.515945"
+    ]
+   },
+   "properties": {
+    "name": "Le Camp Cassaire",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.697309",
+     "43.513191"
+    ]
+   },
+   "properties": {
+    "name": "Le Camp Court",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.687409",
+     "43.512616"
+    ]
+   },
+   "properties": {
+    "name": "Le Camp Cramat",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.686593",
+     "43.512616"
+    ]
+   },
+   "properties": {
+    "name": "Le Camp del Lordy",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.694811",
+     "43.511561"
+    ]
+   },
+   "properties": {
+    "name": "Le Campet",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.695627",
+     "43.509838"
+    ]
+   },
+   "properties": {
+    "name": "Le Camp Grand",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.694682",
+     "43.511468"
+    ]
+   },
+   "properties": {
+    "name": "Le Camp Loung",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.686127",
+     "43.521076"
+    ]
+   },
+   "properties": {
+    "name": "Le Castagné",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.693757",
+     "43.511675"
+    ]
+   },
+   "properties": {
+    "name": "Le Roucayrol",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.685478",
+     "43.51428"
+    ]
+   },
+   "properties": {
+    "name": "Les Cinq Arpents",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.694919",
+     "43.509932"
+    ]
+   },
+   "properties": {
+    "name": "Les Grésilloux",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.684264",
+     "43.517767"
+    ]
+   },
+   "properties": {
+    "name": "Les Grises",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.662425",
+     "43.519921"
+    ]
+   },
+   "properties": {
+    "name": "Les Maurizes",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.683139",
+     "43.515151"
+    ]
+   },
+   "properties": {
+    "name": "Les Seriziers",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.680204",
+     "43.504301"
+    ]
+   },
+   "properties": {
+    "name": "Marmont",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.687474",
+     "43.51674"
+    ]
+   },
+   "properties": {
+    "name": "Prad Arnaud",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.679958",
+     "43.509743"
+    ]
+   },
+   "properties": {
+    "name": "Sainte-Anne",
+    "description": "Cet hagyotoponyme, cité dès 1687 se situe entre le village et le hameau des Gourdous. Il pourrait être le souvenir d'un oratoire ou d'une chapelle, ou, plus vraissemblablement, de terres dépendantes du bassin de Sainte-Anne, établi dans l'ancienne église paroissiale Saint-Martin de la Rivière."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.67722",
+     "43.511834"
+    ]
+   },
+   "properties": {
+    "name": "Église Saint-Barthélemy",
+    "description": "Située au centre du village, l'église Saint-Barthélémy, d'origine castrale, fut reconstruite au début du XIXème siècle. Elle conserve néanmoins un portail de la fin du Moyen-Age ainsi qu'une cloche de 1559 dans son clocher-mur. Elle devint église paroissiale entre la fin du XVIème et le début du XVIIème siècle, supplantant l'ancienne église Saint-Martin."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.682447",
+     "43.520207"
+    ]
+   },
+   "properties": {
+    "name": "Église et cimetière Saint-Martin",
+    "description": "Établie dans la vallée de la Saune, l'église Saint-Martin de la Rivière, aujourd'hui disparue, pourrait avoir été fondée dès les premiers temps de la christiannisation ou, plus probablement, au cours du Haut-Moyen-Age (V-IXème siècles). C'est autour d'elle que se constitua la première communauté de Tarabel. Ayant beaucoup souffert du passage des protestants de Caraman en 1569, elle perdit son rang d'église paroissiale au profit de l'église Saint-Barthélemy."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.668443",
+     "43.506153"
+    ]
+   },
+   "properties": {
+    "name": "Église et cimetière Saint-Pierre de Bugnac",
+    "description": "Cette ancienne église paroissiale, aujourd'hui disparue, desservait la communauté de Bugnac. Annexe de l'église de Tarabel, elle se situait auprès de son cimetière, sur une colline dominant la vallée de la Marcaissonne. Elle disparut au début du XIXème siècle."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.653569",
+     "43.514134"
+    ]
+   },
+   "properties": {
+    "name": "Métairie et hameau des Hugoux",
+    "description": "La métairie des Hugoux est une grosse bâtisse de brique, aujourd'hui inhabitée, établie sur une colline dominant la vallée de la Marcaissonne. Elle reste l'unique trace de la communauté disparue des Hugoux, où la famille du même nom joua un rôle prépondérant dans la protection des derniers parfaits cathares au cours du XIVème siècle."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.678764",
+     "43.510923"
+    ]
+   },
+   "properties": {
+    "name": "Cimetière actuel",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.675052",
+     "43.512455"
+    ]
+   },
+   "properties": {
+    "name": "Place du village",
+    "description": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     "1.676973",
+     "43.512417"
+    ]
+   },
+   "properties": {
+    "name": "Place du Calvaire",
+    "description": "Anciennement occupé par une barbacane défendant l'entrée du château, cet espace devint la place publique principale du village jusqu'au XIXème siècle."
+   }
+  }
+ ]
+}

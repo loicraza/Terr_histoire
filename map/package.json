@@ -1,0 +1,19 @@
+{
+    "name": "terr_histoire-map",
+    "main": "./index.js",
+    "scripts": {
+        "start": "node ."
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://mi-git.univ-tlse2.fr/sofian.roche/terr_histoire.git"
+    },
+    "dependencies": {
+        "cors": "^2.8.5",
+        "dotenv": "^16.0.3",
+        "express": "^4.18.2",
+        "helmet": "^6.0.0",
+        "mongoose": "^6.6.5",
+        "morgan": "^1.10.0"
+    }
+}
